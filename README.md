@@ -9,9 +9,9 @@
 
 <h1 align="center"> 🤖 UI-ML 🤖</h1>
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jkanner/streamlit-audio/main/app.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://uimlv3.streamlit.app/)
 
-[UI ML Stremlit](https://share.streamlit.io/subha996/ui-ml-v2/main/app.py)
+<!-- [UI ML Stremlit](https://share.streamlit.io/subha996/ui-ml-v2/main/app.py) -->
 
 The app may take some time to load, like 1 min or less.
 📊📊
